@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.gred-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  width: 500px;
+  height: 500px;
+  text-align: center;
+  padding: 50px;
+  gap: 30px;
+}
+
+.grid__element {
+  background-color: rgb(20, 153, 177);
+  border: 3px solid black;
+}
+
+.text {
+   inline-size: 400px;
+   block-size: 150px;
+   padding-inline: 30px;
+   background-color: blue;
+  writing-mode: vertical-rl;
+}

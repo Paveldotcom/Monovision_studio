@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2025 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="facebook" unicode="&#xf30c;" d="M500 644l-142 0q-14 0-25-15t-11-37l0-102 178 0 0-148-178 0 0-442-170 0 0 442-152 0 0 148 152 0 0 86q0 94 59 159t147 65l142 0 0-156z" horiz-adv-x="500" />
+
+<glyph glyph-name="tumblr" unicode="&#xf311;" d="M346 850v-253h237v-157h-237v-256c0-58 3-95 9-112 6-16 17-29 34-39 22-13 48-20 76-20 51 0 101 16 151 49v-158c-43-20-81-34-116-42-35-8-72-12-112-12-46 0-86 6-122 17-35 12-65 28-89 50-25 21-42 44-52 68-10 24-14 59-14 105v350h-111v142c39 13 73 31 101 55 28 24 50 52 67 86 17 33 29 75 35 127h143" horiz-adv-x="616.1" />
+
+<glyph glyph-name="wordpress" unicode="&#xf31d;" d="M502 850c-196 0-380-116-465-300l238 0 0-26c-73 9-67-29-56-70l156-391 115 269-53 126c-19 34-20 71-98 68l1 24 349-1 0-27c-41-2-90 10-64-73l141-371 77 216c26 91 2 178-28 264-17 57-9 105 66 124-114 117-249 168-379 168z m475-342l-227-590c63 54 127 74 205 224 52 124 47 240 22 366z m-964-10c-22-174-20-225 35-367 71-136 126-165 205-218l-240 585z m498-221l-168-404c118-34 223-30 320 8l-152 396z" horiz-adv-x="995" />
+</font>
+</defs>
+</svg>
